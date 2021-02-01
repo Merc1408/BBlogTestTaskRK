@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 4, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 35.592 sec <<< FAILURE! - in TestSuite
-checkCreateArticleWithEmptyFieldsOption(tests.checkCreateOption)  Time elapsed: 2.782 sec  <<< FAILURE!
-java.lang.AssertionError: expected [false] but found [true]
-	at tests.checkCreateOption.checkCreateArticleWithEmptyFieldsOption(checkCreateOption.java:36)
+Tests run: 4, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 36.906 sec <<< FAILURE! - in TestSuite
+checkCreateArticleWithEmptyFieldsOption(tests.checkCreateOption)  Time elapsed: 2.879 sec  <<< FAILURE!
+java.lang.AssertionError: Article shouldn't be created
+	at tests.checkCreateOption.checkCreateArticleWithEmptyFieldsOption(checkCreateOption.java:39)
 

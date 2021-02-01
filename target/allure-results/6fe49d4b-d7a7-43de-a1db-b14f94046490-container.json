@@ -1,0 +1,1 @@
+{"uuid":"6fe49d4b-d7a7-43de-a1db-b14f94046490","name":"tests.checkDeleteOption","children":["68731403-835a-40c8-982d-de1f9c7b3050"],"befores":[{"name":"beforeClass","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1612169955429,"stop":1612169955830}],"afters":[],"links":[],"start":1612169955429,"stop":1612169962033}

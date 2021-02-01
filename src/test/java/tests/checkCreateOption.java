@@ -1,5 +1,6 @@
 package tests;
 
+import com.fasterxml.jackson.annotation.JsonTypeInfo;
 import dataprovider.DataProviderFactory;
 import io.qameta.allure.Description;
 import io.qameta.allure.Severity;
@@ -33,7 +34,15 @@ public class checkCreateOption extends TestBase {
     @Description("Create with Empty fields Article")
     public void checkCreateArticleWithEmptyFieldsOption(String articleTitle, String articleAbout, String articleText, String articleTag) throws InterruptedException {
         app.getGeneralActions().createAndPublishArticleWithValidData(articleTitle, articleAbout, articleText, articleTag);
-        Assert.assertFalse(app.getPageManager().getArticlePage().articlePageIsDisplayed());
-        app.getGeneralActions().deleteArticle();
+        if(app.getPageManager().getArticlePage().articlePageIsDisplayed()){
+            Assert.fail("Article shouldn't be created");
+            app.getPageManager().getArticlePage().deleteArticleBannerArea();
+
+        }
+        /*You can remove comment symbols and get Success Test if it is necessary. And comment code above.
+        app.getGeneralActions().createAndPublishArticleWithValidData(articleTitle, articleAbout, articleText, articleTag);
+        Assert.assertTrue(app.getPageManager().getArticlePage().articlePageIsDisplayed());
+        app.getPageManager().getArticlePage().deleteArticleBannerArea();
+        */
     }
 }

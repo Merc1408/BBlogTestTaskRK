@@ -665,3 +665,28 @@
 [INFO ] 2021-02-01 05:12:28.262 [main] TestLogger - --- checkUpdateArticleOption test is started ---
 [INFO ] 2021-02-01 05:12:36.019 [main] TestLogger - --- checkUpdateArticleOption test is passed successfully ---
 [INFO ] 2021-02-01 05:12:37.254 [main] TestLogger - --- That's All? ---
+[INFO ] 2021-02-01 11:56:49.884 [main] TestLogger - --- Let's Start ---
+[INFO ] 2021-02-01 11:56:53.935 [main] TestLogger - --- checkCreateArticleWithEmptyFieldsOption test is started ---
+[INFO ] 2021-02-01 11:56:56.697 [main] TestLogger - --- onTestFailure methodcheckCreateArticleWithEmptyFieldsOption failed ---
+[INFO ] 2021-02-01 11:56:56.697 [main] TestLogger - --- Screenshot captured for test case: checkCreateArticleWithEmptyFieldsOption ---
+[INFO ] 2021-02-01 11:56:58.299 [main] TestLogger - --- That's All? ---
+[INFO ] 2021-02-01 11:57:44.182 [main] TestLogger - --- Let's Start ---
+[INFO ] 2021-02-01 11:57:48.257 [main] TestLogger - --- checkCreateArticleWithEmptyFieldsOption test is started ---
+[INFO ] 2021-02-01 11:57:51.050 [main] TestLogger - --- onTestFailure methodcheckCreateArticleWithEmptyFieldsOption failed ---
+[INFO ] 2021-02-01 11:57:51.050 [main] TestLogger - --- Screenshot captured for test case: checkCreateArticleWithEmptyFieldsOption ---
+[INFO ] 2021-02-01 11:57:52.659 [main] TestLogger - --- That's All? ---
+[INFO ] 2021-02-01 11:59:00.872 [main] TestLogger - --- Let's Start ---
+[INFO ] 2021-02-01 11:59:04.941 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-02-01 11:59:09.188 [main] TestLogger - --- checkCreateArticleOption test is passed successfully ---
+[INFO ] 2021-02-01 11:59:11.389 [main] TestLogger - --- checkCreateArticleWithEmptyFieldsOption test is started ---
+[INFO ] 2021-02-01 11:59:13.965 [main] TestLogger - --- onTestFailure methodcheckCreateArticleWithEmptyFieldsOption failed ---
+[INFO ] 2021-02-01 11:59:13.965 [main] TestLogger - --- Screenshot captured for test case: checkCreateArticleWithEmptyFieldsOption ---
+[INFO ] 2021-02-01 11:59:15.412 [main] TestLogger - --- That's All? ---
+[INFO ] 2021-02-01 11:59:15.429 [main] TestLogger - --- Let's Start ---
+[INFO ] 2021-02-01 11:59:16.691 [main] TestLogger - --- checkDeleteArticleOption test is started ---
+[INFO ] 2021-02-01 11:59:20.701 [main] TestLogger - --- checkDeleteArticleOption test is passed successfully ---
+[INFO ] 2021-02-01 11:59:22.030 [main] TestLogger - --- That's All? ---
+[INFO ] 2021-02-01 11:59:22.033 [main] TestLogger - --- Let's Start ---
+[INFO ] 2021-02-01 11:59:23.308 [main] TestLogger - --- checkUpdateArticleOption test is started ---
+[INFO ] 2021-02-01 11:59:31.331 [main] TestLogger - --- checkUpdateArticleOption test is passed successfully ---
+[INFO ] 2021-02-01 11:59:32.618 [main] TestLogger - --- That's All? ---

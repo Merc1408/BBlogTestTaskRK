@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="35.592" tests="4" errors="0" skipped="0" failures="1">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="36.906" tests="4" errors="0" skipped="0" failures="1">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="java.vm.version" value="15.0.2+7-27"/>
@@ -59,16 +59,16 @@
     <property name="sun.stdout.encoding" value="cp866"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase name="checkCreateArticleOption" classname="tests.checkCreateOption" time="4.069"/>
-  <testcase name="checkCreateArticleWithEmptyFieldsOption" classname="tests.checkCreateOption" time="2.782">
-    <failure message="expected [false] but found [true]" type="java.lang.AssertionError">java.lang.AssertionError: expected [false] but found [true]
-	at tests.checkCreateOption.checkCreateArticleWithEmptyFieldsOption(checkCreateOption.java:36)
+  <testcase name="checkCreateArticleOption" classname="tests.checkCreateOption" time="4.248"/>
+  <testcase name="checkCreateArticleWithEmptyFieldsOption" classname="tests.checkCreateOption" time="2.879">
+    <failure message="Article shouldn&apos;t be created" type="java.lang.AssertionError">java.lang.AssertionError: Article shouldn't be created
+	at tests.checkCreateOption.checkCreateArticleWithEmptyFieldsOption(checkCreateOption.java:39)
 </failure>
-    <system-out><![CDATA[[INFO ] 2021-02-01 05:12:16.880 [main] TestLogger - --- checkCreateArticleWithEmptyFieldsOption test is started ---
-[INFO ] 2021-02-01 05:12:19.376 [main] TestLogger - --- onTestFailure methodcheckCreateArticleWithEmptyFieldsOption failed ---
-[INFO ] 2021-02-01 05:12:19.376 [main] TestLogger - --- Screenshot captured for test case: checkCreateArticleWithEmptyFieldsOption ---
+    <system-out><![CDATA[[INFO ] 2021-02-01 11:59:11.389 [main] TestLogger - --- checkCreateArticleWithEmptyFieldsOption test is started ---
+[INFO ] 2021-02-01 11:59:13.965 [main] TestLogger - --- onTestFailure methodcheckCreateArticleWithEmptyFieldsOption failed ---
+[INFO ] 2021-02-01 11:59:13.965 [main] TestLogger - --- Screenshot captured for test case: checkCreateArticleWithEmptyFieldsOption ---
 ]]></system-out>
   </testcase>
-  <testcase name="checkDeleteArticleOption" classname="tests.checkDeleteOption" time="3.866"/>
-  <testcase name="checkUpdateArticleOption" classname="tests.checkUpdateOption" time="7.756"/>
+  <testcase name="checkDeleteArticleOption" classname="tests.checkDeleteOption" time="4.01"/>
+  <testcase name="checkUpdateArticleOption" classname="tests.checkUpdateOption" time="8.023"/>
 </testsuite>
