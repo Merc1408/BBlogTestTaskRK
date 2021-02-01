@@ -1,0 +1,1 @@
+{"uuid":"45ab2da4-3bdd-4ae1-b86e-b4f6c7bbae68","name":"tests.checkUpdateOption","children":["e72b8ffc-dbd3-441f-a9fa-31ba6f1b4d86"],"befores":[{"name":"beforeClass","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1612145547106,"stop":1612145547444}],"afters":[],"links":[],"start":1612145547106,"stop":1612145557257}

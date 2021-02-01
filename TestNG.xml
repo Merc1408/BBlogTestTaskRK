@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="BBlog CRUD operations testing" >
+    <test name="Create option">
+        <classes>
+            <class name="tests.checkCreateOption"/>
+        </classes>
+    </test>
+    <test name="Delete option">
+        <classes>
+            <class name="tests.checkDeleteOption"/>
+        </classes>
+    </test>
+    <test name="Update option">
+        <classes>
+            <class name="tests.checkUpdateOption"/>
+        </classes>
+    </test>
+</suite>

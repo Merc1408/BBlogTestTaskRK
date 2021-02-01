@@ -1,0 +1,20 @@
+BBlog CRUD tests
+
+Folder [BBlogTestTaskRK] contains manual and automated scripts for testing https://qa-task.backbasecloud.com/#/
+
+Manual test cases BBLOG_CASES_CRUD.xlsx
+Automated tests in folder BBlogTestTaskRK(Java + Selenium Webdriver + TestNG)
+
+For running tests, please:
+1. Open Terminal
+2. Go to folder BBlogTestTaskRK(use cd command for that)
+3. Run command - "mvn clean test"
+Options for running tests:
+- mvn clean test -Dbrowser.name = browserName(chrome or firefox) -Dheadless.mode = headlessMode(true or false). Chrome and false uses by default. Headless mode
+allow to run tests without opening browser(for that you need set true option)
+4. For getting report run "mvn allure:serve"
+
+For adding new tests we can use DataProvider class and create different test data for test and mix it with tests to increase cover rate.
+
+PS: TestNG.xml for choosing tests for execution.
+PSS: I chose typical CRUD tests for automation others can be added as already existing.

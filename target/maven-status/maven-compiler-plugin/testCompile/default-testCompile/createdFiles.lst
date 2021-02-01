@@ -1,0 +1,4 @@
+tests\checkDeleteOption.class
+tests\checkCreateOption.class
+testsettings\TestBase.class
+tests\checkUpdateOption.class

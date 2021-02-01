@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="3" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-02-01T02:12:06Z" name="BBlog CRUD operations testing" finished-at="2021-02-01T02:12:37Z" duration-ms="30524">
+    <groups>
+    </groups>
+    <test started-at="2021-02-01T02:12:06Z" name="Create option" finished-at="2021-02-01T02:12:20Z" duration-ms="14072">
+      <class name="tests.checkCreateOption">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:tests.checkCreateOption@5bb8f9e2]" started-at="2021-02-01T02:12:06Z" name="beforeClass" finished-at="2021-02-01T02:12:09Z" duration-ms="2879" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tests.checkCreateOption@5bb8f9e2]" started-at="2021-02-01T02:12:09Z" name="beforeMethod" finished-at="2021-02-01T02:12:10Z" duration-ms="1053" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="checkCreateArticleOption(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:tests.checkCreateOption@5bb8f9e2]" started-at="2021-02-01T02:12:10Z" name="checkCreateArticleOption" description="Create Article with valid test data in all fields" data-provider="allValidFields" finished-at="2021-02-01T02:12:14Z" duration-ms="4069" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Article Title field]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Article About field]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Write your Article field]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Article Tag field]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkCreateArticleOption -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tests.checkCreateOption@5bb8f9e2]" started-at="2021-02-01T02:12:14Z" name="afterMethod" finished-at="2021-02-01T02:12:16Z" duration-ms="1240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tests.checkCreateOption@5bb8f9e2]" started-at="2021-02-01T02:12:16Z" name="beforeMethod" finished-at="2021-02-01T02:12:16Z" duration-ms="802" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="checkCreateArticleWithEmptyFieldsOption(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:tests.checkCreateOption@5bb8f9e2]" started-at="2021-02-01T02:12:16Z" name="checkCreateArticleWithEmptyFieldsOption" description="Create Article with empty fields" data-provider="Empty fields" finished-at="2021-02-01T02:12:19Z" duration-ms="2495" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [false] but found [true]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [false] but found [true]
+at org.testng.Assert.fail(Assert.java:96)
+at org.testng.Assert.failNotEquals(Assert.java:776)
+at org.testng.Assert.assertFalse(Assert.java:65)
+at org.testng.Assert.assertFalse(Assert.java:75)
+at tests.checkCreateOption.checkCreateArticleWithEmptyFieldsOption(checkCreateOption.java:36)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:281)
+at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:121)
+at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:290)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:242)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:121)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkCreateArticleWithEmptyFieldsOption -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tests.checkCreateOption@5bb8f9e2]" started-at="2021-02-01T02:12:19Z" name="afterMethod" finished-at="2021-02-01T02:12:20Z" duration-ms="1128" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- tests.checkCreateOption -->
+    </test> <!-- Create option -->
+    <test started-at="2021-02-01T02:12:20Z" name="Delete option" finished-at="2021-02-01T02:12:27Z" duration-ms="6282">
+      <class name="tests.checkDeleteOption">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:tests.checkDeleteOption@6f7a20da]" started-at="2021-02-01T02:12:20Z" name="beforeClass" finished-at="2021-02-01T02:12:21Z" duration-ms="331" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tests.checkDeleteOption@6f7a20da]" started-at="2021-02-01T02:12:21Z" name="beforeMethod" finished-at="2021-02-01T02:12:21Z" duration-ms="807" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="checkDeleteArticleOption(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:tests.checkDeleteOption@6f7a20da]" started-at="2021-02-01T02:12:21Z" name="checkDeleteArticleOption" description="Delete Article from Feed" data-provider="allValidFields" finished-at="2021-02-01T02:12:25Z" duration-ms="3866" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Article Title field]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Article About field]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Write your Article field]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Article Tag field]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkDeleteArticleOption -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tests.checkDeleteOption@6f7a20da]" started-at="2021-02-01T02:12:25Z" name="afterMethod" finished-at="2021-02-01T02:12:27Z" duration-ms="1274" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- tests.checkDeleteOption -->
+    </test> <!-- Delete option -->
+    <test started-at="2021-02-01T02:12:27Z" name="Update option" finished-at="2021-02-01T02:12:37Z" duration-ms="10148">
+      <class name="tests.checkUpdateOption">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:tests.checkUpdateOption@74bdfa0b]" started-at="2021-02-01T02:12:27Z" name="beforeClass" finished-at="2021-02-01T02:12:27Z" duration-ms="338" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tests.checkUpdateOption@74bdfa0b]" started-at="2021-02-01T02:12:27Z" name="beforeMethod" finished-at="2021-02-01T02:12:28Z" duration-ms="817" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="checkUpdateArticleOption(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:tests.checkUpdateOption@74bdfa0b]" started-at="2021-02-01T02:12:28Z" name="checkUpdateArticleOption" description="Update Existing Article" data-provider="allValidFields for check edit option" finished-at="2021-02-01T02:12:36Z" duration-ms="7756" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Article Title field]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Article About field]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Write your Article field]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Article Tag field]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Article Title field Updated]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Article About field Updated]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Write your Article field Updated]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Article Tag field Updated]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkUpdateArticleOption -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tests.checkUpdateOption@74bdfa0b]" started-at="2021-02-01T02:12:36Z" name="afterMethod" finished-at="2021-02-01T02:12:37Z" duration-ms="1234" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="stop()[pri:0, instance:tests.checkUpdateOption@74bdfa0b]" started-at="2021-02-01T02:12:37Z" name="stop" finished-at="2021-02-01T02:12:37Z" duration-ms="566" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stop -->
+      </class> <!-- tests.checkUpdateOption -->
+    </test> <!-- Update option -->
+  </suite> <!-- BBlog CRUD operations testing -->
+</testng-results>

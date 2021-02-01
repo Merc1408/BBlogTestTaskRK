@@ -1,0 +1,667 @@
+[INFO ] 2021-01-29 17:21:38.651 [main] TestLogger - --- checkOne test is started ---
+[INFO ] 2021-01-29 17:21:48.953 [main] TestLogger - --- checkOne test is passed successfully ---
+[INFO ] 2021-01-29 17:48:29.917 [main] TestLogger - --- checkOne test is started ---
+[INFO ] 2021-01-29 17:48:35.373 [main] TestLogger - --- checkOne test is passed successfully ---
+[INFO ] 2021-01-29 17:53:02.981 [main] TestLogger - --- checkOne test is started ---
+[INFO ] 2021-01-29 17:53:09.170 [main] TestLogger - --- checkOne test is passed successfully ---
+[INFO ] 2021-01-29 17:57:17.006 [main] TestLogger - --- checkOne test is started ---
+[INFO ] 2021-01-29 17:57:22.496 [main] TestLogger - --- checkOne test is passed successfully ---
+[INFO ] 2021-01-29 17:58:07.635 [main] TestLogger - --- checkOne test is started ---
+[INFO ] 2021-01-29 17:58:12.820 [main] TestLogger - --- checkOne test is passed successfully ---
+[INFO ] 2021-01-29 18:01:30.541 [main] TestLogger - --- checkOne test is started ---
+[INFO ] 2021-01-29 18:01:35.726 [main] TestLogger - --- checkOne test is passed successfully ---
+[INFO ] 2021-01-29 18:07:02.200 [main] TestLogger - --- checkOne test is started ---
+[INFO ] 2021-01-29 18:07:24.411 [main] TestLogger - --- onTestFailure methodcheckOne failed ---
+[INFO ] 2021-01-29 18:07:24.412 [main] TestLogger - --- Screenshot captured for test case: checkOne ---
+[INFO ] 2021-01-29 18:07:48.565 [main] TestLogger - --- checkOne test is started ---
+[INFO ] 2021-01-29 18:07:59.063 [main] TestLogger - --- onTestFailure methodcheckOne failed ---
+[INFO ] 2021-01-29 18:07:59.064 [main] TestLogger - --- Screenshot captured for test case: checkOne ---
+[INFO ] 2021-01-29 18:09:35.850 [main] TestLogger - --- checkOne test is started ---
+[INFO ] 2021-01-29 18:09:41.532 [main] TestLogger - --- checkOne test is passed successfully ---
+[INFO ] 2021-01-30 08:49:58.652 [main] TestLogger - --- checkOne test is started ---
+[INFO ] 2021-01-30 08:50:04.144 [main] TestLogger - --- checkOne test is passed successfully ---
+[INFO ] 2021-01-30 08:58:35.861 [main] TestLogger - --- checkLoginInApp test is started ---
+[INFO ] 2021-01-30 08:58:41.646 [main] TestLogger - --- checkLoginInApp test is passed successfully ---
+[INFO ] 2021-01-30 09:08:03.294 [main] TestLogger - --- checkLoginInApp test is started ---
+[INFO ] 2021-01-30 09:08:08.806 [main] TestLogger - --- onTestFailure methodcheckLoginInApp failed ---
+[INFO ] 2021-01-30 09:08:08.806 [main] TestLogger - --- Screenshot captured for test case: checkLoginInApp ---
+[INFO ] 2021-01-30 09:08:34.828 [main] TestLogger - --- checkLoginInApp test is started ---
+[INFO ] 2021-01-30 09:08:40.623 [main] TestLogger - --- checkLoginInApp test is passed successfully ---
+[INFO ] 2021-01-30 09:12:28.322 [main] TestLogger - --- checkLoginInApp test is started ---
+[INFO ] 2021-01-30 09:12:34.125 [main] TestLogger - --- checkLoginInApp test is passed successfully ---
+[INFO ] 2021-01-30 09:13:33.321 [main] TestLogger - --- checkLoginInApp test is started ---
+[INFO ] 2021-01-30 09:13:34.103 [main] TestLogger - --- checkLoginInApp test is passed successfully ---
+[INFO ] 2021-01-30 18:36:51.388 [main] TestLogger - --- checkLoginInApp test is started ---
+[INFO ] 2021-01-30 18:36:52.184 [main] TestLogger - --- checkLoginInApp test is passed successfully ---
+[INFO ] 2021-01-30 18:38:47.906 [main] TestLogger - --- checkLoginInApp test is started ---
+[INFO ] 2021-01-30 18:38:48.701 [main] TestLogger - --- checkLoginInApp test is passed successfully ---
+[INFO ] 2021-01-30 18:39:17.228 [main] TestLogger - --- checkLoginInApp test is started ---
+[INFO ] 2021-01-30 18:39:18.033 [main] TestLogger - --- checkLoginInApp test is passed successfully ---
+[INFO ] 2021-01-30 18:42:04.966 [main] TestLogger - --- checkLoginInApp test is started ---
+[INFO ] 2021-01-30 18:42:05.788 [main] TestLogger - --- onTestFailure methodcheckLoginInApp failed ---
+[INFO ] 2021-01-30 18:42:05.788 [main] TestLogger - --- Screenshot captured for test case: checkLoginInApp ---
+[INFO ] 2021-01-30 18:43:54.707 [main] TestLogger - --- checkLoginInApp test is started ---
+[INFO ] 2021-01-30 18:43:55.507 [main] TestLogger - --- onTestFailure methodcheckLoginInApp failed ---
+[INFO ] 2021-01-30 18:43:55.507 [main] TestLogger - --- Screenshot captured for test case: checkLoginInApp ---
+[INFO ] 2021-01-30 18:45:17.596 [main] TestLogger - --- checkLoginInApp test is started ---
+[INFO ] 2021-01-30 18:45:20.122 [main] TestLogger - --- checkLoginInApp test is passed successfully ---
+[INFO ] 2021-01-30 18:45:48.746 [main] TestLogger - --- checkLoginInApp test is started ---
+[INFO ] 2021-01-30 18:45:49.540 [main] TestLogger - --- onTestFailure methodcheckLoginInApp failed ---
+[INFO ] 2021-01-30 18:45:49.540 [main] TestLogger - --- Screenshot captured for test case: checkLoginInApp ---
+[INFO ] 2021-01-30 18:49:20.906 [main] TestLogger - --- checkLoginInApp test is started ---
+[INFO ] 2021-01-30 18:49:21.536 [main] TestLogger - --- onTestFailure methodcheckLoginInApp failed ---
+[INFO ] 2021-01-30 18:49:21.536 [main] TestLogger - --- Screenshot captured for test case: checkLoginInApp ---
+[INFO ] 2021-01-30 18:59:54.973 [main] TestLogger - --- checkLoginInApp test is started ---
+[INFO ] 2021-01-30 18:59:56.134 [main] TestLogger - --- checkLoginInApp test is passed successfully ---
+[INFO ] 2021-01-30 19:00:37.261 [main] TestLogger - --- checkLoginInApp test is started ---
+[INFO ] 2021-01-30 19:00:47.850 [main] TestLogger - --- onTestFailure methodcheckLoginInApp failed ---
+[INFO ] 2021-01-30 19:00:47.850 [main] TestLogger - --- Screenshot captured for test case: checkLoginInApp ---
+[INFO ] 2021-01-30 19:04:07.850 [main] TestLogger - --- checkLoginInApp test is started ---
+[INFO ] 2021-01-30 19:04:09.021 [main] TestLogger - --- checkLoginInApp test is passed successfully ---
+[INFO ] 2021-01-30 19:10:11.858 [main] TestLogger - --- checkLoginInApp test is started ---
+[INFO ] 2021-01-30 19:10:11.885 [main] TestLogger - --- checkLoginInApp test is passed successfully ---
+[INFO ] 2021-01-30 19:30:31.938 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-01-30 19:30:35.263 [main] TestLogger - --- checkCreateArticleOption test is passed successfully ---
+[INFO ] 2021-01-30 19:30:53.796 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-01-30 19:30:57.210 [main] TestLogger - --- checkCreateArticleOption test is passed successfully ---
+[INFO ] 2021-01-30 19:31:28.781 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-01-30 19:31:32.140 [main] TestLogger - --- checkCreateArticleOption test is passed successfully ---
+[INFO ] 2021-01-30 19:39:45.297 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-01-30 19:39:49.672 [main] TestLogger - --- checkCreateArticleOption test is passed successfully ---
+[INFO ] 2021-01-30 19:51:15.131 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-01-30 19:51:20.469 [main] TestLogger - --- onTestFailure methodcheckCreateArticleOption failed ---
+[INFO ] 2021-01-30 19:51:20.469 [main] TestLogger - --- Screenshot captured for test case: checkCreateArticleOption ---
+[INFO ] 2021-01-30 19:53:24.093 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-01-30 19:53:29.420 [main] TestLogger - --- onTestFailure methodcheckCreateArticleOption failed ---
+[INFO ] 2021-01-30 19:53:29.420 [main] TestLogger - --- Screenshot captured for test case: checkCreateArticleOption ---
+[INFO ] 2021-01-30 20:07:29.442 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-01-30 20:07:34.910 [main] TestLogger - --- onTestFailure methodcheckCreateArticleOption failed ---
+[INFO ] 2021-01-30 20:07:34.910 [main] TestLogger - --- Screenshot captured for test case: checkCreateArticleOption ---
+[INFO ] 2021-01-30 20:08:52.292 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-01-30 20:08:57.745 [main] TestLogger - --- onTestFailure methodcheckCreateArticleOption failed ---
+[INFO ] 2021-01-30 20:08:57.753 [main] TestLogger - --- Screenshot captured for test case: checkCreateArticleOption ---
+[INFO ] 2021-01-30 20:20:09.115 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-01-30 20:20:12.481 [main] TestLogger - --- checkCreateArticleOption test is passed successfully ---
+[INFO ] 2021-01-30 20:24:27.216 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-01-30 20:24:30.580 [main] TestLogger - --- checkCreateArticleOption test is passed successfully ---
+[INFO ] 2021-01-30 20:30:11.089 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-01-30 20:30:14.457 [main] TestLogger - --- checkCreateArticleOption test is passed successfully ---
+[INFO ] 2021-01-30 20:33:43.513 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-01-30 20:33:46.898 [main] TestLogger - --- checkCreateArticleOption test is passed successfully ---
+[INFO ] 2021-01-30 20:34:57.991 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-01-30 20:35:01.452 [main] TestLogger - --- checkCreateArticleOption test is passed successfully ---
+[INFO ] 2021-01-30 20:36:17.835 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-01-30 20:36:21.283 [main] TestLogger - --- checkCreateArticleOption test is passed successfully ---
+[INFO ] 2021-01-30 20:37:09.371 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-01-30 20:37:14.865 [main] TestLogger - --- onTestFailure methodcheckCreateArticleOption failed ---
+[INFO ] 2021-01-30 20:37:14.865 [main] TestLogger - --- Screenshot captured for test case: checkCreateArticleOption ---
+[INFO ] 2021-01-30 20:38:00.227 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-01-30 20:38:03.637 [main] TestLogger - --- checkCreateArticleOption test is passed successfully ---
+[INFO ] 2021-01-30 20:38:28.061 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-01-30 20:38:32.514 [main] TestLogger - --- checkCreateArticleOption test is passed successfully ---
+[INFO ] 2021-01-30 20:41:57.114 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-01-30 20:42:00.586 [main] TestLogger - --- checkCreateArticleOption test is passed successfully ---
+[INFO ] 2021-01-30 20:43:24.580 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-01-30 20:43:28.026 [main] TestLogger - --- checkCreateArticleOption test is passed successfully ---
+[INFO ] 2021-01-30 20:48:59.999 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-01-30 20:49:03.392 [main] TestLogger - --- checkCreateArticleOption test is passed successfully ---
+[INFO ] 2021-01-30 20:50:33.680 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-01-30 20:50:37.029 [main] TestLogger - --- checkCreateArticleOption test is passed successfully ---
+[INFO ] 2021-01-30 20:51:13.532 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-01-30 20:51:16.893 [main] TestLogger - --- checkCreateArticleOption test is passed successfully ---
+[INFO ] 2021-01-30 21:11:06.306 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-01-30 21:11:10.687 [main] TestLogger - --- checkCreateArticleOption test is passed successfully ---
+[INFO ] 2021-01-30 21:30:24.886 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-01-30 21:30:29.624 [main] TestLogger - --- checkCreateArticleOption test is passed successfully ---
+[INFO ] 2021-01-30 21:37:31.537 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-01-30 21:38:03.952 [main] TestLogger - --- onTestFailure methodcheckCreateArticleOption failed ---
+[INFO ] 2021-01-30 21:38:03.952 [main] TestLogger - --- Screenshot captured for test case: checkCreateArticleOption ---
+[INFO ] 2021-01-30 21:40:15.208 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-01-30 21:40:20.350 [main] TestLogger - --- checkCreateArticleOption test is passed successfully ---
+[INFO ] 2021-01-30 21:44:35.588 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-01-30 21:44:37.797 [main] TestLogger - --- checkCreateArticleOption test is passed successfully ---
+[INFO ] 2021-01-30 21:55:26.866 [main] TestLogger - --- deleteArticleOption test is started ---
+[INFO ] 2021-01-30 21:55:29.115 [main] TestLogger - --- deleteArticleOption test is passed successfully ---
+[INFO ] 2021-01-30 21:57:10.611 [main] TestLogger - --- deleteArticleOption test is started ---
+[INFO ] 2021-01-30 21:57:12.819 [main] TestLogger - --- deleteArticleOption test is passed successfully ---
+[INFO ] 2021-01-30 21:58:19.429 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-01-30 21:58:21.755 [main] TestLogger - --- checkCreateArticleOption test is passed successfully ---
+[INFO ] 2021-01-30 21:58:23.277 [main] TestLogger - --- deleteArticleOption test is started ---
+[INFO ] 2021-01-30 21:58:53.656 [main] TestLogger - --- onTestFailure methoddeleteArticleOption failed ---
+[INFO ] 2021-01-30 21:58:53.657 [main] TestLogger - --- Screenshot captured for test case: deleteArticleOption ---
+[INFO ] 2021-01-30 22:00:12.934 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-01-30 22:00:15.114 [main] TestLogger - --- checkCreateArticleOption test is passed successfully ---
+[INFO ] 2021-01-30 22:00:16.646 [main] TestLogger - --- deleteArticleOption test is started ---
+[INFO ] 2021-01-30 22:03:11.262 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-01-30 22:03:13.597 [main] TestLogger - --- checkCreateArticleOption test is passed successfully ---
+[INFO ] 2021-01-30 22:06:08.240 [main] TestLogger - --- deleteArticleOption test is started ---
+[INFO ] 2021-01-30 22:06:10.179 [main] TestLogger - --- deleteArticleOption test is passed successfully ---
+[INFO ] 2021-01-30 22:07:38.813 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-01-30 22:07:40.935 [main] TestLogger - --- checkCreateArticleOption test is passed successfully ---
+[INFO ] 2021-01-30 22:08:32.868 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-01-30 22:08:34.981 [main] TestLogger - --- checkCreateArticleOption test is passed successfully ---
+[INFO ] 2021-01-30 22:08:36.506 [main] TestLogger - --- deleteArticleOption test is started ---
+[INFO ] 2021-01-30 22:08:56.444 [main] TestLogger - --- onTestFailure methoddeleteArticleOption failed ---
+[INFO ] 2021-01-30 22:08:56.444 [main] TestLogger - --- Screenshot captured for test case: deleteArticleOption ---
+[INFO ] 2021-01-30 22:14:36.723 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-01-30 22:14:38.819 [main] TestLogger - --- checkCreateArticleOption test is passed successfully ---
+[INFO ] 2021-01-30 22:14:40.414 [main] TestLogger - --- deleteArticleOption test is started ---
+[INFO ] 2021-01-30 22:15:31.589 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-01-30 22:15:33.833 [main] TestLogger - --- checkCreateArticleOption test is passed successfully ---
+[INFO ] 2021-01-30 22:15:35.461 [main] TestLogger - --- deleteArticleOption test is started ---
+[INFO ] 2021-01-30 22:15:55.815 [main] TestLogger - --- onTestFailure methoddeleteArticleOption failed ---
+[INFO ] 2021-01-30 22:15:55.815 [main] TestLogger - --- Screenshot captured for test case: deleteArticleOption ---
+[INFO ] 2021-01-30 22:17:49.738 [main] TestLogger - --- deleteArticleOption test is started ---
+[INFO ] 2021-01-30 22:17:51.536 [main] TestLogger - --- deleteArticleOption test is passed successfully ---
+[INFO ] 2021-01-30 22:25:02.807 [main] TestLogger - --- deleteArticleOption test is started ---
+[INFO ] 2021-01-30 22:25:04.602 [main] TestLogger - --- deleteArticleOption test is passed successfully ---
+[INFO ] 2021-01-30 22:28:27.488 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-01-30 22:28:29.731 [main] TestLogger - --- checkCreateArticleOption test is passed successfully ---
+[INFO ] 2021-01-30 22:28:31.339 [main] TestLogger - --- deleteArticleOption test is started ---
+[INFO ] 2021-01-30 22:29:01.754 [main] TestLogger - --- onTestFailure methoddeleteArticleOption failed ---
+[INFO ] 2021-01-30 22:29:01.754 [main] TestLogger - --- Screenshot captured for test case: deleteArticleOption ---
+[INFO ] 2021-01-30 22:30:09.705 [main] TestLogger - --- deleteArticleOption test is started ---
+[INFO ] 2021-01-30 22:30:11.554 [main] TestLogger - --- deleteArticleOption test is passed successfully ---
+[INFO ] 2021-01-31 08:36:05.974 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-01-31 08:36:08.092 [main] TestLogger - --- checkCreateArticleOption test is passed successfully ---
+[INFO ] 2021-01-31 08:36:09.654 [main] TestLogger - --- deleteArticleOption test is started ---
+[INFO ] 2021-01-31 08:36:40.022 [main] TestLogger - --- onTestFailure methoddeleteArticleOption failed ---
+[INFO ] 2021-01-31 08:36:40.022 [main] TestLogger - --- Screenshot captured for test case: deleteArticleOption ---
+[INFO ] 2021-01-31 08:38:43.672 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-01-31 08:38:45.783 [main] TestLogger - --- checkCreateArticleOption test is passed successfully ---
+[INFO ] 2021-01-31 08:38:47.346 [main] TestLogger - --- deleteArticleOption test is started ---
+[INFO ] 2021-01-31 08:38:54.945 [main] TestLogger - --- deleteArticleOption test is passed successfully ---
+[INFO ] 2021-01-31 08:43:05.406 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-01-31 08:43:07.507 [main] TestLogger - --- checkCreateArticleOption test is passed successfully ---
+[INFO ] 2021-01-31 08:43:09.062 [main] TestLogger - --- deleteArticleOption test is started ---
+[INFO ] 2021-01-31 08:43:09.087 [main] TestLogger - --- onTestFailure methoddeleteArticleOption failed ---
+[INFO ] 2021-01-31 08:43:09.087 [main] TestLogger - --- Screenshot captured for test case: deleteArticleOption ---
+[INFO ] 2021-01-31 08:44:12.448 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-01-31 08:44:14.778 [main] TestLogger - --- checkCreateArticleOption test is passed successfully ---
+[INFO ] 2021-01-31 08:44:16.457 [main] TestLogger - --- deleteArticleOption test is started ---
+[INFO ] 2021-01-31 08:44:21.522 [main] TestLogger - --- onTestFailure methoddeleteArticleOption failed ---
+[INFO ] 2021-01-31 08:44:21.522 [main] TestLogger - --- Screenshot captured for test case: deleteArticleOption ---
+[INFO ] 2021-01-31 08:48:40.911 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-01-31 08:48:43.269 [main] TestLogger - --- checkCreateArticleOption test is passed successfully ---
+[INFO ] 2021-01-31 08:48:44.947 [main] TestLogger - --- deleteArticleOption test is started ---
+[INFO ] 2021-01-31 08:49:45.715 [main] TestLogger - --- onTestFailure methoddeleteArticleOption failed ---
+[INFO ] 2021-01-31 08:49:45.716 [main] TestLogger - --- Screenshot captured for test case: deleteArticleOption ---
+[INFO ] 2021-01-31 08:50:47.219 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-01-31 08:50:49.589 [main] TestLogger - --- checkCreateArticleOption test is passed successfully ---
+[INFO ] 2021-01-31 08:50:51.255 [main] TestLogger - --- deleteArticleOption test is started ---
+[INFO ] 2021-01-31 08:51:51.997 [main] TestLogger - --- onTestFailure methoddeleteArticleOption failed ---
+[INFO ] 2021-01-31 08:51:51.997 [main] TestLogger - --- Screenshot captured for test case: deleteArticleOption ---
+[INFO ] 2021-01-31 08:58:16.081 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-01-31 08:58:18.424 [main] TestLogger - --- checkCreateArticleOption test is passed successfully ---
+[INFO ] 2021-01-31 08:58:20.097 [main] TestLogger - --- deleteArticleOption test is started ---
+[INFO ] 2021-01-31 08:58:50.494 [main] TestLogger - --- onTestFailure methoddeleteArticleOption failed ---
+[INFO ] 2021-01-31 08:58:50.494 [main] TestLogger - --- Screenshot captured for test case: deleteArticleOption ---
+[INFO ] 2021-01-31 09:01:02.521 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-01-31 09:01:04.864 [main] TestLogger - --- checkCreateArticleOption test is passed successfully ---
+[INFO ] 2021-01-31 09:01:06.558 [main] TestLogger - --- deleteArticleOption test is started ---
+[INFO ] 2021-01-31 09:01:36.977 [main] TestLogger - --- onTestFailure methoddeleteArticleOption failed ---
+[INFO ] 2021-01-31 09:01:36.977 [main] TestLogger - --- Screenshot captured for test case: deleteArticleOption ---
+[INFO ] 2021-01-31 09:04:16.165 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-01-31 09:04:18.292 [main] TestLogger - --- checkCreateArticleOption test is passed successfully ---
+[INFO ] 2021-01-31 09:04:19.852 [main] TestLogger - --- deleteArticleOption test is started ---
+[INFO ] 2021-01-31 09:05:20.597 [main] TestLogger - --- onTestFailure methoddeleteArticleOption failed ---
+[INFO ] 2021-01-31 09:05:20.597 [main] TestLogger - --- Screenshot captured for test case: deleteArticleOption ---
+[INFO ] 2021-01-31 09:06:20.886 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-01-31 09:06:22.989 [main] TestLogger - --- checkCreateArticleOption test is passed successfully ---
+[INFO ] 2021-01-31 09:06:24.586 [main] TestLogger - --- deleteArticleOption test is started ---
+[INFO ] 2021-01-31 09:06:28.294 [main] TestLogger - --- deleteArticleOption test is passed successfully ---
+[INFO ] 2021-01-31 09:14:31.729 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-01-31 09:14:33.962 [main] TestLogger - --- checkCreateArticleOption test is passed successfully ---
+[INFO ] 2021-01-31 09:14:35.614 [main] TestLogger - --- deleteArticleOption test is started ---
+[INFO ] 2021-01-31 09:15:06.041 [main] TestLogger - --- onTestFailure methoddeleteArticleOption failed ---
+[INFO ] 2021-01-31 09:15:06.041 [main] TestLogger - --- Screenshot captured for test case: deleteArticleOption ---
+[INFO ] 2021-01-31 09:18:14.759 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-01-31 09:18:16.862 [main] TestLogger - --- checkCreateArticleOption test is passed successfully ---
+[INFO ] 2021-01-31 09:18:19.429 [main] TestLogger - --- deleteArticleOption test is started ---
+[INFO ] 2021-01-31 09:18:21.127 [main] TestLogger - --- deleteArticleOption test is passed successfully ---
+[INFO ] 2021-01-31 09:25:42.343 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-01-31 09:25:44.620 [main] TestLogger - --- checkCreateArticleOption test is passed successfully ---
+[INFO ] 2021-01-31 09:25:46.613 [main] TestLogger - --- deleteArticleOption test is started ---
+[INFO ] 2021-01-31 09:25:48.437 [main] TestLogger - --- deleteArticleOption test is passed successfully ---
+[INFO ] 2021-01-31 10:11:12.075 [main] TestLogger - --- checkUpdateOption test is started ---
+[INFO ] 2021-01-31 10:11:13.474 [main] TestLogger - --- checkUpdateOption test is passed successfully ---
+[INFO ] 2021-01-31 10:15:47.897 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-01-31 10:15:50.440 [main] TestLogger - --- checkCreateArticleOption test is passed successfully ---
+[INFO ] 2021-01-31 10:38:48.368 [main] TestLogger - --- onTestFailure methodcheckCheckArticleOption failed ---
+[INFO ] 2021-01-31 10:38:48.369 [main] TestLogger - --- Screenshot captured for test case: checkCheckArticleOption ---
+[INFO ] 2021-01-31 10:40:07.293 [main] TestLogger - --- onTestFailure methodcheckCheckArticleOption failed ---
+[INFO ] 2021-01-31 10:40:07.295 [main] TestLogger - --- Screenshot captured for test case: checkCheckArticleOption ---
+[INFO ] 2021-01-31 10:40:35.970 [main] TestLogger - --- checkCheckArticleOption test is started ---
+[INFO ] 2021-01-31 10:40:36.335 [main] TestLogger - --- checkCheckArticleOption test is passed successfully ---
+[INFO ] 2021-01-31 10:42:49.882 [main] TestLogger - --- checkCheckArticleOption test is started ---
+[INFO ] 2021-01-31 10:42:50.203 [main] TestLogger - --- checkCheckArticleOption test is passed successfully ---
+[INFO ] 2021-01-31 10:46:50.426 [main] TestLogger - --- checkCheckArticleOption test is started ---
+[INFO ] 2021-01-31 10:46:50.754 [main] TestLogger - --- checkCheckArticleOption test is passed successfully ---
+[INFO ] 2021-01-31 10:47:17.711 [main] TestLogger - --- checkCheckArticleOption test is started ---
+[INFO ] 2021-01-31 10:47:20.032 [main] TestLogger - --- checkCheckArticleOption test is passed successfully ---
+[INFO ] 2021-01-31 12:51:31.552 [main] TestLogger - --- checkCheckArticleOption test is started ---
+[INFO ] 2021-01-31 12:51:31.809 [main] TestLogger - --- onTestFailure methodcheckCheckArticleOption failed ---
+[INFO ] 2021-01-31 12:51:31.809 [main] TestLogger - --- Screenshot captured for test case: checkCheckArticleOption ---
+[INFO ] 2021-01-31 12:53:07.530 [main] TestLogger - --- checkCheckArticleOption test is started ---
+[INFO ] 2021-01-31 12:53:07.793 [main] TestLogger - --- onTestFailure methodcheckCheckArticleOption failed ---
+[INFO ] 2021-01-31 12:53:07.793 [main] TestLogger - --- Screenshot captured for test case: checkCheckArticleOption ---
+[INFO ] 2021-01-31 12:54:27.776 [main] TestLogger - --- checkCheckArticleOption test is started ---
+[INFO ] 2021-01-31 12:54:28.105 [main] TestLogger - --- checkCheckArticleOption test is passed successfully ---
+[INFO ] 2021-01-31 12:54:53.723 [main] TestLogger - --- checkCheckArticleOption test is started ---
+[INFO ] 2021-01-31 12:54:56.044 [main] TestLogger - --- checkCheckArticleOption test is passed successfully ---
+[INFO ] 2021-01-31 12:56:01.424 [main] TestLogger - --- checkCheckArticleOption test is started ---
+[INFO ] 2021-01-31 12:56:03.770 [main] TestLogger - --- checkCheckArticleOption test is passed successfully ---
+[INFO ] 2021-01-31 13:21:49.761 [main] TestLogger - --- checkUpdateArticleOption test is started ---
+[INFO ] 2021-01-31 13:21:51.803 [main] TestLogger - --- onTestFailure methodcheckUpdateArticleOption failed ---
+[INFO ] 2021-01-31 13:21:51.803 [main] TestLogger - --- Screenshot captured for test case: checkUpdateArticleOption ---
+[INFO ] 2021-01-31 13:24:13.798 [main] TestLogger - --- checkUpdateArticleOption test is started ---
+[INFO ] 2021-01-31 13:24:16.101 [main] TestLogger - --- onTestFailure methodcheckUpdateArticleOption failed ---
+[INFO ] 2021-01-31 13:24:16.101 [main] TestLogger - --- Screenshot captured for test case: checkUpdateArticleOption ---
+[INFO ] 2021-01-31 13:30:25.983 [main] TestLogger - --- checkUpdateArticleOption test is started ---
+[INFO ] 2021-01-31 13:30:37.571 [main] TestLogger - --- onTestFailure methodcheckUpdateArticleOption failed ---
+[INFO ] 2021-01-31 13:30:37.571 [main] TestLogger - --- Screenshot captured for test case: checkUpdateArticleOption ---
+[INFO ] 2021-01-31 13:34:47.032 [main] TestLogger - --- checkUpdateArticleOption test is started ---
+[INFO ] 2021-01-31 13:34:48.971 [main] TestLogger - --- onTestFailure methodcheckUpdateArticleOption failed ---
+[INFO ] 2021-01-31 13:34:48.971 [main] TestLogger - --- Screenshot captured for test case: checkUpdateArticleOption ---
+[INFO ] 2021-01-31 13:36:39.734 [main] TestLogger - --- checkUpdateArticleOption test is started ---
+[INFO ] 2021-01-31 13:36:49.834 [main] TestLogger - --- onTestFailure methodcheckUpdateArticleOption failed ---
+[INFO ] 2021-01-31 13:36:49.834 [main] TestLogger - --- Screenshot captured for test case: checkUpdateArticleOption ---
+[INFO ] 2021-01-31 13:39:42.740 [main] TestLogger - --- checkUpdateArticleOption test is started ---
+[INFO ] 2021-01-31 13:39:54.346 [main] TestLogger - --- onTestFailure methodcheckUpdateArticleOption failed ---
+[INFO ] 2021-01-31 13:39:54.346 [main] TestLogger - --- Screenshot captured for test case: checkUpdateArticleOption ---
+[INFO ] 2021-01-31 13:40:55.583 [main] TestLogger - --- checkUpdateArticleOption test is started ---
+[INFO ] 2021-01-31 13:41:07.523 [main] TestLogger - --- onTestFailure methodcheckUpdateArticleOption failed ---
+[INFO ] 2021-01-31 13:41:07.523 [main] TestLogger - --- Screenshot captured for test case: checkUpdateArticleOption ---
+[INFO ] 2021-01-31 13:43:20.162 [main] TestLogger - --- checkUpdateArticleOption test is started ---
+[INFO ] 2021-01-31 13:43:32.071 [main] TestLogger - --- onTestFailure methodcheckUpdateArticleOption failed ---
+[INFO ] 2021-01-31 13:43:32.072 [main] TestLogger - --- Screenshot captured for test case: checkUpdateArticleOption ---
+[INFO ] 2021-01-31 13:44:56.092 [main] TestLogger - --- checkUpdateArticleOption test is started ---
+[INFO ] 2021-01-31 13:45:08.150 [main] TestLogger - --- onTestFailure methodcheckUpdateArticleOption failed ---
+[INFO ] 2021-01-31 13:45:08.150 [main] TestLogger - --- Screenshot captured for test case: checkUpdateArticleOption ---
+[INFO ] 2021-01-31 13:48:02.388 [main] TestLogger - --- checkCheckArticleOption test is started ---
+[INFO ] 2021-01-31 13:48:04.708 [main] TestLogger - --- checkCheckArticleOption test is passed successfully ---
+[INFO ] 2021-01-31 13:48:41.030 [main] TestLogger - --- checkCheckArticleOption test is started ---
+[INFO ] 2021-01-31 13:48:41.629 [main] TestLogger - --- checkCheckArticleOption test is passed successfully ---
+[INFO ] 2021-01-31 13:50:49.049 [main] TestLogger - --- checkCheckArticleOption test is started ---
+[INFO ] 2021-01-31 13:50:49.639 [main] TestLogger - --- checkCheckArticleOption test is passed successfully ---
+[INFO ] 2021-01-31 13:52:00.850 [main] TestLogger - --- checkCheckArticleOption test is started ---
+[INFO ] 2021-01-31 13:52:01.530 [main] TestLogger - --- checkCheckArticleOption test is passed successfully ---
+[INFO ] 2021-01-31 13:53:32.347 [main] TestLogger - --- checkCheckArticleOption test is started ---
+[INFO ] 2021-01-31 13:53:34.954 [main] TestLogger - --- checkCheckArticleOption test is passed successfully ---
+[INFO ] 2021-01-31 13:54:21.396 [main] TestLogger - --- checkCheckArticleOption test is started ---
+[INFO ] 2021-01-31 13:54:24.009 [main] TestLogger - --- checkCheckArticleOption test is passed successfully ---
+[INFO ] 2021-01-31 13:54:41.011 [main] TestLogger - --- checkUpdateArticleOption test is started ---
+[INFO ] 2021-01-31 13:54:42.870 [main] TestLogger - --- onTestFailure methodcheckUpdateArticleOption failed ---
+[INFO ] 2021-01-31 13:54:42.870 [main] TestLogger - --- Screenshot captured for test case: checkUpdateArticleOption ---
+[INFO ] 2021-01-31 13:56:57.527 [main] TestLogger - --- checkCheckArticleOption test is started ---
+[INFO ] 2021-01-31 13:57:29.296 [main] TestLogger - --- onTestFailure methodcheckCheckArticleOption failed ---
+[INFO ] 2021-01-31 13:57:29.296 [main] TestLogger - --- Screenshot captured for test case: checkCheckArticleOption ---
+[INFO ] 2021-01-31 14:01:03.719 [main] TestLogger - --- checkCheckArticleOption test is started ---
+[INFO ] 2021-01-31 14:01:07.764 [main] TestLogger - --- checkCheckArticleOption test is passed successfully ---
+[INFO ] 2021-01-31 14:01:51.265 [main] TestLogger - --- checkUpdateArticleOption test is started ---
+[INFO ] 2021-01-31 14:01:53.176 [main] TestLogger - --- onTestFailure methodcheckUpdateArticleOption failed ---
+[INFO ] 2021-01-31 14:01:53.176 [main] TestLogger - --- Screenshot captured for test case: checkUpdateArticleOption ---
+[INFO ] 2021-01-31 14:06:01.326 [main] TestLogger - --- checkUpdateArticleOption test is started ---
+[INFO ] 2021-01-31 14:06:03.182 [main] TestLogger - --- onTestFailure methodcheckUpdateArticleOption failed ---
+[INFO ] 2021-01-31 14:06:03.182 [main] TestLogger - --- Screenshot captured for test case: checkUpdateArticleOption ---
+[INFO ] 2021-01-31 14:06:52.490 [main] TestLogger - --- checkCheckArticleOption test is started ---
+[INFO ] 2021-01-31 14:07:04.445 [main] TestLogger - --- onTestFailure methodcheckCheckArticleOption failed ---
+[INFO ] 2021-01-31 14:07:04.445 [main] TestLogger - --- Screenshot captured for test case: checkCheckArticleOption ---
+[INFO ] 2021-01-31 14:08:16.930 [main] TestLogger - --- checkCheckArticleOption test is started ---
+[INFO ] 2021-01-31 14:08:18.792 [main] TestLogger - --- onTestFailure methodcheckCheckArticleOption failed ---
+[INFO ] 2021-01-31 14:08:18.792 [main] TestLogger - --- Screenshot captured for test case: checkCheckArticleOption ---
+[INFO ] 2021-01-31 14:08:50.079 [main] TestLogger - --- checkCheckArticleOption test is started ---
+[INFO ] 2021-01-31 14:09:21.856 [main] TestLogger - --- onTestFailure methodcheckCheckArticleOption failed ---
+[INFO ] 2021-01-31 14:09:21.856 [main] TestLogger - --- Screenshot captured for test case: checkCheckArticleOption ---
+[INFO ] 2021-01-31 23:32:39.891 [main] TestLogger - --- checkCheckArticleOption test is started ---
+[INFO ] 2021-01-31 23:32:41.831 [main] TestLogger - --- onTestFailure methodcheckCheckArticleOption failed ---
+[INFO ] 2021-01-31 23:32:41.831 [main] TestLogger - --- Screenshot captured for test case: checkCheckArticleOption ---
+[INFO ] 2021-01-31 23:39:38.713 [main] TestLogger - --- checkCheckArticleOption test is started ---
+[INFO ] 2021-01-31 23:39:51.302 [main] TestLogger - --- onTestFailure methodcheckCheckArticleOption failed ---
+[INFO ] 2021-01-31 23:39:51.302 [main] TestLogger - --- Screenshot captured for test case: checkCheckArticleOption ---
+[INFO ] 2021-01-31 23:45:10.491 [main] TestLogger - --- checkCheckArticleOption test is started ---
+[INFO ] 2021-01-31 23:45:23.103 [main] TestLogger - --- onTestFailure methodcheckCheckArticleOption failed ---
+[INFO ] 2021-01-31 23:45:23.103 [main] TestLogger - --- Screenshot captured for test case: checkCheckArticleOption ---
+[INFO ] 2021-01-31 23:58:47.086 [main] TestLogger - --- checkCheckArticleOption test is started ---
+[INFO ] 2021-01-31 23:58:59.682 [main] TestLogger - --- onTestFailure methodcheckCheckArticleOption failed ---
+[INFO ] 2021-01-31 23:58:59.682 [main] TestLogger - --- Screenshot captured for test case: checkCheckArticleOption ---
+[INFO ] 2021-02-01 00:00:18.824 [main] TestLogger - --- checkCheckArticleOption test is started ---
+[INFO ] 2021-02-01 00:00:21.384 [main] TestLogger - --- onTestFailure methodcheckCheckArticleOption failed ---
+[INFO ] 2021-02-01 00:00:21.384 [main] TestLogger - --- Screenshot captured for test case: checkCheckArticleOption ---
+[INFO ] 2021-02-01 00:03:00.942 [main] TestLogger - --- checkCheckArticleOption test is started ---
+[INFO ] 2021-02-01 00:03:13.601 [main] TestLogger - --- onTestFailure methodcheckCheckArticleOption failed ---
+[INFO ] 2021-02-01 00:03:13.601 [main] TestLogger - --- Screenshot captured for test case: checkCheckArticleOption ---
+[INFO ] 2021-02-01 00:06:29.910 [main] TestLogger - --- checkCheckArticleOption test is started ---
+[INFO ] 2021-02-01 00:06:30.505 [main] TestLogger - --- checkCheckArticleOption test is passed successfully ---
+[INFO ] 2021-02-01 00:07:19.490 [main] TestLogger - --- checkCheckArticleOption test is started ---
+[INFO ] 2021-02-01 00:07:21.518 [main] TestLogger - --- checkCheckArticleOption test is passed successfully ---
+[INFO ] 2021-02-01 00:07:44.709 [main] TestLogger - --- checkCheckArticleOption test is started ---
+[INFO ] 2021-02-01 00:07:46.581 [main] TestLogger - --- onTestFailure methodcheckCheckArticleOption failed ---
+[INFO ] 2021-02-01 00:07:46.581 [main] TestLogger - --- Screenshot captured for test case: checkCheckArticleOption ---
+[INFO ] 2021-02-01 00:08:08.610 [main] TestLogger - --- checkCheckArticleOption test is started ---
+[INFO ] 2021-02-01 00:08:20.682 [main] TestLogger - --- onTestFailure methodcheckCheckArticleOption failed ---
+[INFO ] 2021-02-01 00:08:20.682 [main] TestLogger - --- Screenshot captured for test case: checkCheckArticleOption ---
+[INFO ] 2021-02-01 00:08:44.179 [main] TestLogger - --- checkCheckArticleOption test is started ---
+[INFO ] 2021-02-01 00:08:46.094 [main] TestLogger - --- checkCheckArticleOption test is passed successfully ---
+[INFO ] 2021-02-01 00:09:00.725 [main] TestLogger - --- checkCheckArticleOption test is started ---
+[INFO ] 2021-02-01 00:09:12.630 [main] TestLogger - --- onTestFailure methodcheckCheckArticleOption failed ---
+[INFO ] 2021-02-01 00:09:12.631 [main] TestLogger - --- Screenshot captured for test case: checkCheckArticleOption ---
+[INFO ] 2021-02-01 00:09:40.395 [main] TestLogger - --- checkCheckArticleOption test is started ---
+[INFO ] 2021-02-01 00:09:52.243 [main] TestLogger - --- onTestFailure methodcheckCheckArticleOption failed ---
+[INFO ] 2021-02-01 00:09:52.244 [main] TestLogger - --- Screenshot captured for test case: checkCheckArticleOption ---
+[INFO ] 2021-02-01 00:10:13.240 [main] TestLogger - --- checkCheckArticleOption test is started ---
+[INFO ] 2021-02-01 00:10:15.068 [main] TestLogger - --- onTestFailure methodcheckCheckArticleOption failed ---
+[INFO ] 2021-02-01 00:10:15.069 [main] TestLogger - --- Screenshot captured for test case: checkCheckArticleOption ---
+[INFO ] 2021-02-01 00:10:41.809 [main] TestLogger - --- checkCheckArticleOption test is started ---
+[INFO ] 2021-02-01 00:10:43.638 [main] TestLogger - --- onTestFailure methodcheckCheckArticleOption failed ---
+[INFO ] 2021-02-01 00:10:43.638 [main] TestLogger - --- Screenshot captured for test case: checkCheckArticleOption ---
+[INFO ] 2021-02-01 00:11:07.035 [main] TestLogger - --- checkCheckArticleOption test is started ---
+[INFO ] 2021-02-01 00:11:18.942 [main] TestLogger - --- onTestFailure methodcheckCheckArticleOption failed ---
+[INFO ] 2021-02-01 00:11:18.943 [main] TestLogger - --- Screenshot captured for test case: checkCheckArticleOption ---
+[INFO ] 2021-02-01 00:12:40.362 [main] TestLogger - --- checkCheckArticleOption test is started ---
+[INFO ] 2021-02-01 00:12:42.666 [main] TestLogger - --- onTestFailure methodcheckCheckArticleOption failed ---
+[INFO ] 2021-02-01 00:12:42.666 [main] TestLogger - --- Screenshot captured for test case: checkCheckArticleOption ---
+[INFO ] 2021-02-01 00:13:18.115 [main] TestLogger - --- checkCheckArticleOption test is started ---
+[INFO ] 2021-02-01 00:13:19.953 [main] TestLogger - --- onTestFailure methodcheckCheckArticleOption failed ---
+[INFO ] 2021-02-01 00:13:19.954 [main] TestLogger - --- Screenshot captured for test case: checkCheckArticleOption ---
+[INFO ] 2021-02-01 00:17:57.945 [main] TestLogger - --- checkCheckArticleOption test is started ---
+[INFO ] 2021-02-01 00:17:59.825 [main] TestLogger - --- checkCheckArticleOption test is passed successfully ---
+[INFO ] 2021-02-01 00:18:18.834 [main] TestLogger - --- checkCheckArticleOption test is started ---
+[INFO ] 2021-02-01 00:18:20.828 [main] TestLogger - --- onTestFailure methodcheckCheckArticleOption failed ---
+[INFO ] 2021-02-01 00:18:20.828 [main] TestLogger - --- Screenshot captured for test case: checkCheckArticleOption ---
+[INFO ] 2021-02-01 00:19:37.655 [main] TestLogger - --- checkCheckArticleOption test is started ---
+[INFO ] 2021-02-01 00:19:39.461 [main] TestLogger - --- onTestFailure methodcheckCheckArticleOption failed ---
+[INFO ] 2021-02-01 00:19:39.462 [main] TestLogger - --- Screenshot captured for test case: checkCheckArticleOption ---
+[INFO ] 2021-02-01 00:20:13.049 [main] TestLogger - --- checkCheckArticleOption test is started ---
+[INFO ] 2021-02-01 00:20:14.929 [main] TestLogger - --- checkCheckArticleOption test is passed successfully ---
+[INFO ] 2021-02-01 00:20:35.293 [main] TestLogger - --- checkCheckArticleOption test is started ---
+[INFO ] 2021-02-01 00:20:37.118 [main] TestLogger - --- onTestFailure methodcheckCheckArticleOption failed ---
+[INFO ] 2021-02-01 00:20:37.118 [main] TestLogger - --- Screenshot captured for test case: checkCheckArticleOption ---
+[INFO ] 2021-02-01 00:23:09.572 [main] TestLogger - --- checkCheckArticleOption test is started ---
+[INFO ] 2021-02-01 00:23:11.419 [main] TestLogger - --- onTestFailure methodcheckCheckArticleOption failed ---
+[INFO ] 2021-02-01 00:23:11.419 [main] TestLogger - --- Screenshot captured for test case: checkCheckArticleOption ---
+[INFO ] 2021-02-01 00:35:36.759 [main] TestLogger - --- checkCheckArticleOption test is started ---
+[INFO ] 2021-02-01 00:35:38.725 [main] TestLogger - --- onTestFailure methodcheckCheckArticleOption failed ---
+[INFO ] 2021-02-01 00:35:38.726 [main] TestLogger - --- Screenshot captured for test case: checkCheckArticleOption ---
+[INFO ] 2021-02-01 00:39:10.251 [main] TestLogger - --- checkCheckArticleOption test is started ---
+[INFO ] 2021-02-01 00:39:12.167 [main] TestLogger - --- onTestFailure methodcheckCheckArticleOption failed ---
+[INFO ] 2021-02-01 00:39:12.167 [main] TestLogger - --- Screenshot captured for test case: checkCheckArticleOption ---
+[INFO ] 2021-02-01 00:41:18.280 [main] TestLogger - --- checkCheckArticleOption test is started ---
+[INFO ] 2021-02-01 00:41:40.272 [main] TestLogger - --- checkCheckArticleOption test is passed successfully ---
+[INFO ] 2021-02-01 00:42:15.771 [main] TestLogger - --- checkCheckArticleOption test is started ---
+[INFO ] 2021-02-01 00:42:17.684 [main] TestLogger - --- onTestFailure methodcheckCheckArticleOption failed ---
+[INFO ] 2021-02-01 00:42:17.684 [main] TestLogger - --- Screenshot captured for test case: checkCheckArticleOption ---
+[INFO ] 2021-02-01 00:45:31.037 [main] TestLogger - --- checkCheckArticleOption test is started ---
+[INFO ] 2021-02-01 00:45:32.919 [main] TestLogger - --- checkCheckArticleOption test is passed successfully ---
+[INFO ] 2021-02-01 00:45:49.413 [main] TestLogger - --- checkCheckArticleOption test is started ---
+[INFO ] 2021-02-01 00:45:51.283 [main] TestLogger - --- checkCheckArticleOption test is passed successfully ---
+[INFO ] 2021-02-01 00:52:35.326 [main] TestLogger - --- checkCheckArticleOption test is started ---
+[INFO ] 2021-02-01 00:52:37.241 [main] TestLogger - --- onTestFailure methodcheckCheckArticleOption failed ---
+[INFO ] 2021-02-01 00:52:37.241 [main] TestLogger - --- Screenshot captured for test case: checkCheckArticleOption ---
+[INFO ] 2021-02-01 00:54:10.844 [main] TestLogger - --- checkCheckArticleOption test is started ---
+[INFO ] 2021-02-01 00:54:12.706 [main] TestLogger - --- checkCheckArticleOption test is passed successfully ---
+[INFO ] 2021-02-01 00:54:27.670 [main] TestLogger - --- checkCheckArticleOption test is started ---
+[INFO ] 2021-02-01 00:54:29.667 [main] TestLogger - --- onTestFailure methodcheckCheckArticleOption failed ---
+[INFO ] 2021-02-01 00:54:29.667 [main] TestLogger - --- Screenshot captured for test case: checkCheckArticleOption ---
+[INFO ] 2021-02-01 00:55:11.918 [main] TestLogger - --- checkCheckArticleOption test is started ---
+[INFO ] 2021-02-01 00:55:13.723 [main] TestLogger - --- onTestFailure methodcheckCheckArticleOption failed ---
+[INFO ] 2021-02-01 00:55:13.723 [main] TestLogger - --- Screenshot captured for test case: checkCheckArticleOption ---
+[INFO ] 2021-02-01 00:56:26.898 [main] TestLogger - --- checkCheckArticleOption test is started ---
+[INFO ] 2021-02-01 00:56:38.543 [main] TestLogger - --- checkCheckArticleOption test is passed successfully ---
+[INFO ] 2021-02-01 00:57:02.197 [main] TestLogger - --- checkCheckArticleOption test is started ---
+[INFO ] 2021-02-01 00:57:04.122 [main] TestLogger - --- checkCheckArticleOption test is passed successfully ---
+[INFO ] 2021-02-01 00:57:25.272 [main] TestLogger - --- checkUpdateArticleOption test is started ---
+[INFO ] 2021-02-01 00:57:28.553 [main] TestLogger - --- onTestFailure methodcheckUpdateArticleOption failed ---
+[INFO ] 2021-02-01 00:57:28.553 [main] TestLogger - --- Screenshot captured for test case: checkUpdateArticleOption ---
+[INFO ] 2021-02-01 00:58:28.265 [main] TestLogger - --- checkUpdateArticleOption test is started ---
+[INFO ] 2021-02-01 00:58:41.350 [main] TestLogger - --- onTestFailure methodcheckUpdateArticleOption failed ---
+[INFO ] 2021-02-01 00:58:41.350 [main] TestLogger - --- Screenshot captured for test case: checkUpdateArticleOption ---
+[INFO ] 2021-02-01 00:59:42.227 [main] TestLogger - --- checkUpdateArticleOption test is started ---
+[INFO ] 2021-02-01 00:59:45.587 [main] TestLogger - --- onTestFailure methodcheckUpdateArticleOption failed ---
+[INFO ] 2021-02-01 00:59:45.587 [main] TestLogger - --- Screenshot captured for test case: checkUpdateArticleOption ---
+[INFO ] 2021-02-01 01:01:53.523 [main] TestLogger - --- checkUpdateArticleOption test is started ---
+[INFO ] 2021-02-01 01:02:06.258 [main] TestLogger - --- onTestFailure methodcheckUpdateArticleOption failed ---
+[INFO ] 2021-02-01 01:02:06.259 [main] TestLogger - --- Screenshot captured for test case: checkUpdateArticleOption ---
+[INFO ] 2021-02-01 01:02:45.150 [main] TestLogger - --- checkUpdateArticleOption test is started ---
+[INFO ] 2021-02-01 01:02:50.348 [main] TestLogger - --- onTestFailure methodcheckUpdateArticleOption failed ---
+[INFO ] 2021-02-01 01:02:50.348 [main] TestLogger - --- Screenshot captured for test case: checkUpdateArticleOption ---
+[INFO ] 2021-02-01 01:03:38.986 [main] TestLogger - --- checkUpdateArticleOption test is started ---
+[INFO ] 2021-02-01 01:03:44.132 [main] TestLogger - --- onTestFailure methodcheckUpdateArticleOption failed ---
+[INFO ] 2021-02-01 01:03:44.132 [main] TestLogger - --- Screenshot captured for test case: checkUpdateArticleOption ---
+[INFO ] 2021-02-01 01:05:11.574 [main] TestLogger - --- checkUpdateArticleOption test is started ---
+[INFO ] 2021-02-01 01:05:17.881 [main] TestLogger - --- onTestFailure methodcheckUpdateArticleOption failed ---
+[INFO ] 2021-02-01 01:05:17.881 [main] TestLogger - --- Screenshot captured for test case: checkUpdateArticleOption ---
+[INFO ] 2021-02-01 01:05:54.278 [main] TestLogger - --- checkUpdateArticleOption test is started ---
+[INFO ] 2021-02-01 01:06:01.589 [main] TestLogger - --- checkUpdateArticleOption test is passed successfully ---
+[INFO ] 2021-02-01 01:08:05.678 [main] TestLogger - --- checkUpdateArticleOption test is started ---
+[INFO ] 2021-02-01 01:08:07.988 [main] TestLogger - --- onTestFailure methodcheckUpdateArticleOption failed ---
+[INFO ] 2021-02-01 01:08:07.988 [main] TestLogger - --- Screenshot captured for test case: checkUpdateArticleOption ---
+[INFO ] 2021-02-01 01:08:58.703 [main] TestLogger - --- checkUpdateArticleOption test is started ---
+[INFO ] 2021-02-01 01:09:05.721 [main] TestLogger - --- checkUpdateArticleOption test is passed successfully ---
+[INFO ] 2021-02-01 01:11:08.306 [main] TestLogger - --- checkUpdateArticleOption test is started ---
+[INFO ] 2021-02-01 01:11:14.471 [main] TestLogger - --- onTestFailure methodcheckUpdateArticleOption failed ---
+[INFO ] 2021-02-01 01:11:14.471 [main] TestLogger - --- Screenshot captured for test case: checkUpdateArticleOption ---
+[INFO ] 2021-02-01 01:12:52.212 [main] TestLogger - --- checkUpdateArticleOption test is started ---
+[INFO ] 2021-02-01 01:12:58.561 [main] TestLogger - --- checkUpdateArticleOption test is passed successfully ---
+[INFO ] 2021-02-01 01:13:18.450 [main] TestLogger - --- checkUpdateArticleOption test is started ---
+[INFO ] 2021-02-01 01:13:24.512 [main] TestLogger - --- onTestFailure methodcheckUpdateArticleOption failed ---
+[INFO ] 2021-02-01 01:13:24.512 [main] TestLogger - --- Screenshot captured for test case: checkUpdateArticleOption ---
+[INFO ] 2021-02-01 01:13:44.572 [main] TestLogger - --- checkUpdateArticleOption test is started ---
+[INFO ] 2021-02-01 01:13:50.414 [main] TestLogger - --- onTestFailure methodcheckUpdateArticleOption failed ---
+[INFO ] 2021-02-01 01:13:50.415 [main] TestLogger - --- Screenshot captured for test case: checkUpdateArticleOption ---
+[INFO ] 2021-02-01 01:14:23.057 [main] TestLogger - --- checkUpdateArticleOption test is started ---
+[INFO ] 2021-02-01 01:14:29.518 [main] TestLogger - --- onTestFailure methodcheckUpdateArticleOption failed ---
+[INFO ] 2021-02-01 01:14:29.518 [main] TestLogger - --- Screenshot captured for test case: checkUpdateArticleOption ---
+[INFO ] 2021-02-01 01:15:00.275 [main] TestLogger - --- checkUpdateArticleOption test is started ---
+[INFO ] 2021-02-01 01:15:06.164 [main] TestLogger - --- onTestFailure methodcheckUpdateArticleOption failed ---
+[INFO ] 2021-02-01 01:15:06.164 [main] TestLogger - --- Screenshot captured for test case: checkUpdateArticleOption ---
+[INFO ] 2021-02-01 01:18:15.839 [main] TestLogger - --- checkUpdateArticleOption test is started ---
+[INFO ] 2021-02-01 01:18:21.732 [main] TestLogger - --- onTestFailure methodcheckUpdateArticleOption failed ---
+[INFO ] 2021-02-01 01:18:21.732 [main] TestLogger - --- Screenshot captured for test case: checkUpdateArticleOption ---
+[INFO ] 2021-02-01 01:20:12.793 [main] TestLogger - --- checkUpdateArticleOption test is started ---
+[INFO ] 2021-02-01 01:20:20.438 [main] TestLogger - --- checkUpdateArticleOption test is passed successfully ---
+[INFO ] 2021-02-01 01:20:35.359 [main] TestLogger - --- checkUpdateArticleOption test is started ---
+[INFO ] 2021-02-01 01:20:43.232 [main] TestLogger - --- checkUpdateArticleOption test is passed successfully ---
+[INFO ] 2021-02-01 01:22:33.117 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-02-01 01:22:37.016 [main] TestLogger - --- checkCreateArticleOption test is passed successfully ---
+[INFO ] 2021-02-01 01:23:37.655 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-02-01 01:23:41.597 [main] TestLogger - --- checkCreateArticleOption test is passed successfully ---
+[INFO ] 2021-02-01 01:23:43.907 [main] TestLogger - --- checkDeleteArticleOption test is started ---
+[INFO ] 2021-02-01 01:23:46.817 [main] TestLogger - --- checkDeleteArticleOption test is passed successfully ---
+[INFO ] 2021-02-01 01:23:49.141 [main] TestLogger - --- checkCheckArticleOption test is started ---
+[INFO ] 2021-02-01 01:23:53.119 [main] TestLogger - --- checkCheckArticleOption test is passed successfully ---
+[INFO ] 2021-02-01 01:23:55.065 [main] TestLogger - --- checkUpdateArticleOption test is started ---
+[INFO ] 2021-02-01 01:24:02.592 [main] TestLogger - --- checkUpdateArticleOption test is passed successfully ---
+[INFO ] 2021-02-01 01:28:47.787 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-02-01 01:28:51.669 [main] TestLogger - --- checkCreateArticleOption test is passed successfully ---
+[INFO ] 2021-02-01 01:29:25.153 [main] TestLogger - --- checkDeleteArticleOption test is started ---
+[INFO ] 2021-02-01 01:29:27.981 [main] TestLogger - --- checkDeleteArticleOption test is passed successfully ---
+[INFO ] 2021-02-01 01:29:41.610 [main] TestLogger - --- checkCheckArticleOption test is started ---
+[INFO ] 2021-02-01 01:29:45.542 [main] TestLogger - --- checkCheckArticleOption test is passed successfully ---
+[INFO ] 2021-02-01 01:32:29.217 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-02-01 01:32:33.220 [main] TestLogger - --- checkCreateArticleOption test is passed successfully ---
+[INFO ] 2021-02-01 01:34:25.652 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-02-01 01:34:29.556 [main] TestLogger - --- checkCreateArticleOption test is passed successfully ---
+[INFO ] 2021-02-01 01:35:02.031 [main] TestLogger - --- checkDeleteArticleOption test is started ---
+[INFO ] 2021-02-01 01:35:05.915 [main] TestLogger - --- checkDeleteArticleOption test is passed successfully ---
+[INFO ] 2021-02-01 01:35:17.908 [main] TestLogger - --- checkCheckArticleOption test is started ---
+[INFO ] 2021-02-01 01:35:21.830 [main] TestLogger - --- checkCheckArticleOption test is passed successfully ---
+[INFO ] 2021-02-01 01:38:20.370 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-02-01 01:38:24.374 [main] TestLogger - --- checkCreateArticleOption test is passed successfully ---
+[INFO ] 2021-02-01 01:38:28.037 [main] TestLogger - --- checkDeleteArticleOption test is started ---
+[INFO ] 2021-02-01 01:38:32.030 [main] TestLogger - --- checkDeleteArticleOption test is passed successfully ---
+[INFO ] 2021-02-01 01:38:41.182 [main] TestLogger - --- checkCheckArticleOption test is started ---
+[INFO ] 2021-02-01 01:38:45.532 [main] TestLogger - --- checkCheckArticleOption test is passed successfully ---
+[INFO ] 2021-02-01 01:39:43.356 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-02-01 01:39:47.358 [main] TestLogger - --- checkCreateArticleOption test is passed successfully ---
+[INFO ] 2021-02-01 01:39:50.798 [main] TestLogger - --- checkDeleteArticleOption test is started ---
+[INFO ] 2021-02-01 01:39:54.796 [main] TestLogger - --- checkDeleteArticleOption test is passed successfully ---
+[INFO ] 2021-02-01 01:39:58.205 [main] TestLogger - --- checkCheckArticleOption test is started ---
+[INFO ] 2021-02-01 01:40:02.267 [main] TestLogger - --- checkCheckArticleOption test is passed successfully ---
+[INFO ] 2021-02-01 01:40:05.263 [main] TestLogger - --- checkUpdateArticleOption test is started ---
+[INFO ] 2021-02-01 01:40:12.866 [main] TestLogger - --- checkUpdateArticleOption test is passed successfully ---
+[INFO ] 2021-02-01 01:41:28.933 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-02-01 01:41:32.814 [main] TestLogger - --- checkCreateArticleOption test is passed successfully ---
+[INFO ] 2021-02-01 01:41:36.274 [main] TestLogger - --- checkDeleteArticleOption test is started ---
+[INFO ] 2021-02-01 01:41:40.132 [main] TestLogger - --- checkDeleteArticleOption test is passed successfully ---
+[INFO ] 2021-02-01 01:41:43.612 [main] TestLogger - --- checkUpdateArticleOption test is started ---
+[INFO ] 2021-02-01 01:41:51.184 [main] TestLogger - --- checkUpdateArticleOption test is passed successfully ---
+[INFO ] 2021-02-01 01:43:13.722 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-02-01 01:43:17.785 [main] TestLogger - --- checkCreateArticleOption test is passed successfully ---
+[INFO ] 2021-02-01 01:43:21.075 [main] TestLogger - --- checkDeleteArticleOption test is started ---
+[INFO ] 2021-02-01 01:43:24.948 [main] TestLogger - --- checkDeleteArticleOption test is passed successfully ---
+[INFO ] 2021-02-01 01:43:28.241 [main] TestLogger - --- checkUpdateArticleOption test is started ---
+[INFO ] 2021-02-01 01:43:35.967 [main] TestLogger - --- checkUpdateArticleOption test is passed successfully ---
+[INFO ] 2021-02-01 01:49:46.922 [main] TestLogger - --- checkCreateArticleWithEmptyFieldsOption test is started ---
+[INFO ] 2021-02-01 01:50:19.922 [main] TestLogger - --- onTestFailure methodcheckCreateArticleWithEmptyFieldsOption failed ---
+[INFO ] 2021-02-01 01:50:19.922 [main] TestLogger - --- Screenshot captured for test case: checkCreateArticleWithEmptyFieldsOption ---
+[INFO ] 2021-02-01 01:56:37.124 [main] TestLogger - --- checkCreateArticleWithEmptyFieldsOption test is started ---
+[INFO ] 2021-02-01 01:56:39.861 [main] TestLogger - --- onTestFailure methodcheckCreateArticleWithEmptyFieldsOption failed ---
+[INFO ] 2021-02-01 01:56:39.861 [main] TestLogger - --- Screenshot captured for test case: checkCreateArticleWithEmptyFieldsOption ---
+[INFO ] 2021-02-01 03:12:53.494 [main] TestLogger - --- onTestFailure methodtest failed ---
+[INFO ] 2021-02-01 03:12:53.495 [main] TestLogger - --- Screenshot captured for test case: test ---
+[INFO ] 2021-02-01 03:22:12.850 [main] TestLogger - --- test test is started ---
+[INFO ] 2021-02-01 03:22:14.868 [main] TestLogger - --- test test is passed successfully ---
+[INFO ] 2021-02-01 03:23:43.714 [main] TestLogger - --- test test is started ---
+[INFO ] 2021-02-01 03:23:45.731 [main] TestLogger - --- test test is passed successfully ---
+[INFO ] 2021-02-01 03:26:22.956 [main] TestLogger - 
+[INFO ] 2021-02-01 03:26:25.583 [main] TestLogger - --- test test is started ---
+[INFO ] 2021-02-01 03:26:27.600 [main] TestLogger - --- test test is passed successfully ---
+[INFO ] 2021-02-01 03:40:12.245 [main] TestLogger - --- test test is started ---
+[INFO ] 2021-02-01 03:40:14.262 [main] TestLogger - --- test test is passed successfully ---
+[INFO ] 2021-02-01 03:43:34.651 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-02-01 03:43:36.408 [main] TestLogger - --- onTestFailure methodcheckCreateArticleOption failed ---
+[INFO ] 2021-02-01 03:43:36.408 [main] TestLogger - --- Screenshot captured for test case: checkCreateArticleOption ---
+[INFO ] 2021-02-01 03:50:22.851 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-02-01 03:50:39.530 [main] TestLogger - --- onTestFailure methodcheckCreateArticleOption failed ---
+[INFO ] 2021-02-01 03:50:39.530 [main] TestLogger - --- Screenshot captured for test case: checkCreateArticleOption ---
+[INFO ] 2021-02-01 03:54:03.383 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-02-01 03:54:48.861 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-02-01 03:54:50.666 [main] TestLogger - --- onTestFailure methodcheckCreateArticleOption failed ---
+[INFO ] 2021-02-01 03:54:50.666 [main] TestLogger - --- Screenshot captured for test case: checkCreateArticleOption ---
+[INFO ] 2021-02-01 03:59:24.715 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-02-01 03:59:41.423 [main] TestLogger - --- onTestFailure methodcheckCreateArticleOption failed ---
+[INFO ] 2021-02-01 03:59:41.423 [main] TestLogger - --- Screenshot captured for test case: checkCreateArticleOption ---
+[INFO ] 2021-02-01 03:59:43.849 [main] TestLogger - --- checkCreateArticleWithEmptyFieldsOption test is started ---
+[INFO ] 2021-02-01 03:59:49.891 [main] TestLogger - --- onTestFailure methodcheckCreateArticleWithEmptyFieldsOption failed ---
+[INFO ] 2021-02-01 03:59:49.891 [main] TestLogger - --- Screenshot captured for test case: checkCreateArticleWithEmptyFieldsOption ---
+[INFO ] 2021-02-01 03:59:49.893 [main] TestLogger - --- onTestFailure methodcheckCreateArticleWithEmptyFieldsOption failed ---
+[INFO ] 2021-02-01 03:59:49.893 [main] TestLogger - --- Screenshot captured for test case: checkCreateArticleWithEmptyFieldsOption ---
+[INFO ] 2021-02-01 04:03:10.922 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-02-01 04:03:17.297 [main] TestLogger - --- onTestFailure methodcheckCreateArticleOption failed ---
+[INFO ] 2021-02-01 04:03:17.297 [main] TestLogger - --- Screenshot captured for test case: checkCreateArticleOption ---
+[INFO ] 2021-02-01 04:03:19.723 [main] TestLogger - --- checkCreateArticleWithEmptyFieldsOption test is started ---
+[INFO ] 2021-02-01 04:03:26.032 [main] TestLogger - --- onTestFailure methodcheckCreateArticleWithEmptyFieldsOption failed ---
+[INFO ] 2021-02-01 04:03:26.032 [main] TestLogger - --- Screenshot captured for test case: checkCreateArticleWithEmptyFieldsOption ---
+[INFO ] 2021-02-01 04:05:28.562 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-02-01 04:05:30.307 [main] TestLogger - --- onTestFailure methodcheckCreateArticleOption failed ---
+[INFO ] 2021-02-01 04:05:30.307 [main] TestLogger - --- Screenshot captured for test case: checkCreateArticleOption ---
+[INFO ] 2021-02-01 04:05:32.696 [main] TestLogger - --- checkCreateArticleWithEmptyFieldsOption test is started ---
+[INFO ] 2021-02-01 04:05:38.997 [main] TestLogger - --- onTestFailure methodcheckCreateArticleWithEmptyFieldsOption failed ---
+[INFO ] 2021-02-01 04:05:38.997 [main] TestLogger - --- Screenshot captured for test case: checkCreateArticleWithEmptyFieldsOption ---
+[INFO ] 2021-02-01 04:07:30.996 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-02-01 04:07:37.338 [main] TestLogger - --- onTestFailure methodcheckCreateArticleOption failed ---
+[INFO ] 2021-02-01 04:07:37.338 [main] TestLogger - --- Screenshot captured for test case: checkCreateArticleOption ---
+[INFO ] 2021-02-01 04:08:04.009 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-02-01 04:08:05.743 [main] TestLogger - --- onTestFailure methodcheckCreateArticleOption failed ---
+[INFO ] 2021-02-01 04:08:05.743 [main] TestLogger - --- Screenshot captured for test case: checkCreateArticleOption ---
+[INFO ] 2021-02-01 04:08:08.150 [main] TestLogger - --- checkCreateArticleWithEmptyFieldsOption test is started ---
+[INFO ] 2021-02-01 04:08:14.447 [main] TestLogger - --- onTestFailure methodcheckCreateArticleWithEmptyFieldsOption failed ---
+[INFO ] 2021-02-01 04:08:14.447 [main] TestLogger - --- Screenshot captured for test case: checkCreateArticleWithEmptyFieldsOption ---
+[INFO ] 2021-02-01 04:10:47.973 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-02-01 04:10:54.399 [main] TestLogger - --- onTestFailure methodcheckCreateArticleOption failed ---
+[INFO ] 2021-02-01 04:10:54.399 [main] TestLogger - --- Screenshot captured for test case: checkCreateArticleOption ---
+[INFO ] 2021-02-01 04:10:56.923 [main] TestLogger - --- checkCreateArticleWithEmptyFieldsOption test is started ---
+[INFO ] 2021-02-01 04:11:03.292 [main] TestLogger - --- onTestFailure methodcheckCreateArticleWithEmptyFieldsOption failed ---
+[INFO ] 2021-02-01 04:11:03.292 [main] TestLogger - --- Screenshot captured for test case: checkCreateArticleWithEmptyFieldsOption ---
+[INFO ] 2021-02-01 04:14:39.751 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-02-01 04:14:46.148 [main] TestLogger - --- onTestFailure methodcheckCreateArticleOption failed ---
+[INFO ] 2021-02-01 04:14:46.148 [main] TestLogger - --- Screenshot captured for test case: checkCreateArticleOption ---
+[INFO ] 2021-02-01 04:15:13.404 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-02-01 04:15:19.830 [main] TestLogger - --- onTestFailure methodcheckCreateArticleOption failed ---
+[INFO ] 2021-02-01 04:15:19.831 [main] TestLogger - --- Screenshot captured for test case: checkCreateArticleOption ---
+[INFO ] 2021-02-01 04:15:22.197 [main] TestLogger - --- checkCreateArticleWithEmptyFieldsOption test is started ---
+[INFO ] 2021-02-01 04:15:28.548 [main] TestLogger - --- onTestFailure methodcheckCreateArticleWithEmptyFieldsOption failed ---
+[INFO ] 2021-02-01 04:15:28.548 [main] TestLogger - --- Screenshot captured for test case: checkCreateArticleWithEmptyFieldsOption ---
+[INFO ] 2021-02-01 04:19:08.135 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-02-01 04:19:14.547 [main] TestLogger - --- onTestFailure methodcheckCreateArticleOption failed ---
+[INFO ] 2021-02-01 04:19:14.547 [main] TestLogger - --- Screenshot captured for test case: checkCreateArticleOption ---
+[INFO ] 2021-02-01 04:20:46.281 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-02-01 04:20:52.759 [main] TestLogger - --- onTestFailure methodcheckCreateArticleOption failed ---
+[INFO ] 2021-02-01 04:20:52.759 [main] TestLogger - --- Screenshot captured for test case: checkCreateArticleOption ---
+[INFO ] 2021-02-01 04:20:55.163 [main] TestLogger - --- checkCreateArticleWithEmptyFieldsOption test is started ---
+[INFO ] 2021-02-01 04:21:01.545 [main] TestLogger - --- onTestFailure methodcheckCreateArticleWithEmptyFieldsOption failed ---
+[INFO ] 2021-02-01 04:21:01.545 [main] TestLogger - --- Screenshot captured for test case: checkCreateArticleWithEmptyFieldsOption ---
+[INFO ] 2021-02-01 04:22:11.695 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-02-01 04:22:14.909 [main] TestLogger - --- checkCreateArticleOption test is passed successfully ---
+[INFO ] 2021-02-01 04:22:16.989 [main] TestLogger - --- checkCreateArticleWithEmptyFieldsOption test is started ---
+[INFO ] 2021-02-01 04:22:23.355 [main] TestLogger - --- onTestFailure methodcheckCreateArticleWithEmptyFieldsOption failed ---
+[INFO ] 2021-02-01 04:22:23.355 [main] TestLogger - --- Screenshot captured for test case: checkCreateArticleWithEmptyFieldsOption ---
+[INFO ] 2021-02-01 04:46:29.958 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-02-01 04:46:33.136 [main] TestLogger - --- checkCreateArticleOption test is passed successfully ---
+[INFO ] 2021-02-01 04:46:35.243 [main] TestLogger - --- checkCreateArticleWithEmptyFieldsOption test is started ---
+[INFO ] 2021-02-01 04:46:41.624 [main] TestLogger - --- onTestFailure methodcheckCreateArticleWithEmptyFieldsOption failed ---
+[INFO ] 2021-02-01 04:46:41.624 [main] TestLogger - --- Screenshot captured for test case: checkCreateArticleWithEmptyFieldsOption ---
+[INFO ] 2021-02-01 04:50:53.038 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-02-01 04:50:57.154 [main] TestLogger - --- checkCreateArticleOption test is passed successfully ---
+[INFO ] 2021-02-01 04:50:59.237 [main] TestLogger - --- checkCreateArticleWithEmptyFieldsOption test is started ---
+[INFO ] 2021-02-01 04:51:01.745 [main] TestLogger - --- onTestFailure methodcheckCreateArticleWithEmptyFieldsOption failed ---
+[INFO ] 2021-02-01 04:51:01.745 [main] TestLogger - --- Screenshot captured for test case: checkCreateArticleWithEmptyFieldsOption ---
+[INFO ] 2021-02-01 04:51:04.322 [main] TestLogger - --- checkDeleteArticleOption test is started ---
+[INFO ] 2021-02-01 04:51:08.168 [main] TestLogger - --- checkDeleteArticleOption test is passed successfully ---
+[INFO ] 2021-02-01 04:51:10.602 [main] TestLogger - --- checkUpdateArticleOption test is started ---
+[INFO ] 2021-02-01 04:51:18.359 [main] TestLogger - --- checkUpdateArticleOption test is passed successfully ---
+[INFO ] 2021-02-01 05:02:58.406 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-02-01 05:03:02.483 [main] TestLogger - --- checkCreateArticleOption test is passed successfully ---
+[INFO ] 2021-02-01 05:03:04.557 [main] TestLogger - --- checkCreateArticleWithEmptyFieldsOption test is started ---
+[INFO ] 2021-02-01 05:03:07.054 [main] TestLogger - --- onTestFailure methodcheckCreateArticleWithEmptyFieldsOption failed ---
+[INFO ] 2021-02-01 05:03:07.054 [main] TestLogger - --- Screenshot captured for test case: checkCreateArticleWithEmptyFieldsOption ---
+[INFO ] 2021-02-01 05:03:09.622 [main] TestLogger - --- checkDeleteArticleOption test is started ---
+[INFO ] 2021-02-01 05:03:13.487 [main] TestLogger - --- checkDeleteArticleOption test is passed successfully ---
+[INFO ] 2021-02-01 05:03:15.911 [main] TestLogger - --- checkUpdateArticleOption test is started ---
+[INFO ] 2021-02-01 05:03:23.668 [main] TestLogger - --- checkUpdateArticleOption test is passed successfully ---
+[INFO ] 2021-02-01 05:06:48.080 [main] TestLogger - --- May The Force Be With You ---
+[INFO ] 2021-02-01 05:06:52.133 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-02-01 05:06:56.202 [main] TestLogger - --- checkCreateArticleOption test is passed successfully ---
+[INFO ] 2021-02-01 05:06:58.297 [main] TestLogger - --- checkCreateArticleWithEmptyFieldsOption test is started ---
+[INFO ] 2021-02-01 05:07:00.803 [main] TestLogger - --- onTestFailure methodcheckCreateArticleWithEmptyFieldsOption failed ---
+[INFO ] 2021-02-01 05:07:00.803 [main] TestLogger - --- Screenshot captured for test case: checkCreateArticleWithEmptyFieldsOption ---
+[INFO ] 2021-02-01 05:07:02.222 [main] TestLogger - --- Lok'tar Ogar ---
+[INFO ] 2021-02-01 05:07:02.239 [main] TestLogger - --- May The Force Be With You ---
+[INFO ] 2021-02-01 05:07:03.413 [main] TestLogger - --- checkDeleteArticleOption test is started ---
+[INFO ] 2021-02-01 05:07:07.276 [main] TestLogger - --- checkDeleteArticleOption test is passed successfully ---
+[INFO ] 2021-02-01 05:07:08.550 [main] TestLogger - --- Lok'tar Ogar ---
+[INFO ] 2021-02-01 05:07:08.554 [main] TestLogger - --- May The Force Be With You ---
+[INFO ] 2021-02-01 05:07:09.705 [main] TestLogger - --- checkUpdateArticleOption test is started ---
+[INFO ] 2021-02-01 05:07:17.512 [main] TestLogger - --- checkUpdateArticleOption test is passed successfully ---
+[INFO ] 2021-02-01 05:07:18.754 [main] TestLogger - --- Lok'tar Ogar ---
+[INFO ] 2021-02-01 05:10:19.047 [main] TestLogger - --- Let's Start ---
+[INFO ] 2021-02-01 05:10:23.152 [main] TestLogger - --- CHECKCREATEARTICLEOPTION test is started ---
+[INFO ] 2021-02-01 05:10:27.375 [main] TestLogger - --- CHECKCREATEARTICLEOPTION test is passed successfully ---
+[INFO ] 2021-02-01 05:10:29.570 [main] TestLogger - --- CHECKCREATEARTICLEWITHEMPTYFIELDSOPTION test is started ---
+[INFO ] 2021-02-01 05:10:32.127 [main] TestLogger - --- onTestFailure methodcheckCreateArticleWithEmptyFieldsOption failed ---
+[INFO ] 2021-02-01 05:10:32.127 [main] TestLogger - --- Screenshot captured for test case: CHECKCREATEARTICLEWITHEMPTYFIELDSOPTION ---
+[INFO ] 2021-02-01 05:10:33.546 [main] TestLogger - --- That's All? ---
+[INFO ] 2021-02-01 05:10:33.564 [main] TestLogger - --- Let's Start ---
+[INFO ] 2021-02-01 05:10:34.830 [main] TestLogger - --- CHECKDELETEARTICLEOPTION test is started ---
+[INFO ] 2021-02-01 05:10:38.846 [main] TestLogger - --- CHECKDELETEARTICLEOPTION test is passed successfully ---
+[INFO ] 2021-02-01 05:10:40.179 [main] TestLogger - --- That's All? ---
+[INFO ] 2021-02-01 05:10:40.182 [main] TestLogger - --- Let's Start ---
+[INFO ] 2021-02-01 05:10:41.462 [main] TestLogger - --- CHECKUPDATEARTICLEOPTION test is started ---
+[INFO ] 2021-02-01 05:10:49.467 [main] TestLogger - --- CHECKUPDATEARTICLEOPTION test is passed successfully ---
+[INFO ] 2021-02-01 05:10:50.758 [main] TestLogger - --- That's All? ---
+[INFO ] 2021-02-01 05:12:06.733 [main] TestLogger - --- Let's Start ---
+[INFO ] 2021-02-01 05:12:10.733 [main] TestLogger - --- checkCreateArticleOption test is started ---
+[INFO ] 2021-02-01 05:12:14.802 [main] TestLogger - --- checkCreateArticleOption test is passed successfully ---
+[INFO ] 2021-02-01 05:12:16.880 [main] TestLogger - --- checkCreateArticleWithEmptyFieldsOption test is started ---
+[INFO ] 2021-02-01 05:12:19.376 [main] TestLogger - --- onTestFailure methodcheckCreateArticleWithEmptyFieldsOption failed ---
+[INFO ] 2021-02-01 05:12:19.376 [main] TestLogger - --- Screenshot captured for test case: checkCreateArticleWithEmptyFieldsOption ---
+[INFO ] 2021-02-01 05:12:20.802 [main] TestLogger - --- That's All? ---
+[INFO ] 2021-02-01 05:12:20.820 [main] TestLogger - --- Let's Start ---
+[INFO ] 2021-02-01 05:12:21.960 [main] TestLogger - --- checkDeleteArticleOption test is started ---
+[INFO ] 2021-02-01 05:12:25.826 [main] TestLogger - --- checkDeleteArticleOption test is passed successfully ---
+[INFO ] 2021-02-01 05:12:27.103 [main] TestLogger - --- That's All? ---
+[INFO ] 2021-02-01 05:12:27.106 [main] TestLogger - --- Let's Start ---
+[INFO ] 2021-02-01 05:12:28.262 [main] TestLogger - --- checkUpdateArticleOption test is started ---
+[INFO ] 2021-02-01 05:12:36.019 [main] TestLogger - --- checkUpdateArticleOption test is passed successfully ---
+[INFO ] 2021-02-01 05:12:37.254 [main] TestLogger - --- That's All? ---
