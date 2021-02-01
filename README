@@ -18,3 +18,5 @@ For adding new tests we can use DataProvider class and create different test dat
 
 PS: TestNG.xml for choosing tests for execution.
 PSS: I chose typical CRUD tests for automation others can be added as already existing.
+PSS: About Locators - I've just copied(Xpath) automatically generated locators just for speed up. I think that better to use locators in such way
+     ID>name(if unique)>classname>css selector>Xpath
