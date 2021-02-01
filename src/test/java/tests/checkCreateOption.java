@@ -1,6 +1,5 @@
 package tests;
 
-import com.fasterxml.jackson.annotation.JsonTypeInfo;
 import dataprovider.DataProviderFactory;
 import io.qameta.allure.Description;
 import io.qameta.allure.Severity;
